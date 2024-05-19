@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joma Mohammadi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on AI projects.
 - 📫 How to reach me. 
 joma.mo1381@gmail.com
 
